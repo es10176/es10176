@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @es10176
-- 👀 I’m interested in Web Scraping and automation using Python
-- 🌱 I’m currently learning PHP and SQlite
+- 👀 I’m interested in cybersecurity and python
+- 🌱 I’m currently learning BASH
 - 💞️ I’m looking to collaborate on other projects similar to mine.
 - 📫 How to reach me: You can email me at emiliano.sanchez3310@gmail.com
 - 😄 Pronouns: he/him
